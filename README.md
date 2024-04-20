@@ -8,3 +8,4 @@ requirements: an android phone - termux API - internet connection - probably a V
 Installation:
 first open termux api then run
 # pkg update -y 
+# git clone 
